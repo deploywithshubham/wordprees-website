@@ -7,7 +7,7 @@
 
 .header-banner{
 	background-color:rgb(221,51,51);
-	background-image: url(/wp-content/uploads/2022/06/abstract_pyramids-wide-scaled.jpg);
+	background-image: url(/https://deploywithshubham.github.io/wp-content/uploads/2022/06/abstract_pyramids-wide-scaled.jpg);
 }
 
 .page-title-default{
@@ -208,6 +208,6 @@
 	font-weight: normal;
 	font-style: normal;
 	font-family: "woodmart-font";
-	src: url("/wp-content/themes/woodmart/fonts/woodmart-font.woff2?v=6.4.0") format("woff2");
+	src: url("/https://deploywithshubham.github.io/wp-content/themes/woodmart/fonts/woodmart-font.woff2?v=6.4.0") format("woff2");
 }
 
