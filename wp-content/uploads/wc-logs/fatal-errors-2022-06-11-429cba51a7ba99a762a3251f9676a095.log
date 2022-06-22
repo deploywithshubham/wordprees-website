@@ -1,0 +1,2 @@
+2022-06-11T13:47:20+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 40960 bytes) in /home/website/web/hosting.stdo.in/public_html/wp-includes/rest-api/class-wp-rest-server.php on line 871
+
